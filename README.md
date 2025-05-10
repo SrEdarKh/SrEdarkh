@@ -54,8 +54,8 @@ Desarrollador/a Fullstack apasionado/a por la tecnología, la innovación y la e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=calm" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrEdarkh&show_icons=true&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrEdarkh&layout=compact&theme=calm" width="48%" />
 </p>
 
 ---
