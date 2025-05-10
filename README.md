@@ -51,15 +51,6 @@ Desarrollador/a Fullstack apasionado/a por la tecnología, la innovación y la e
 
 ---
 
-## 🚀 Proyectos Destacados
-
-- [**TutorialPython**](https://github.com/LillianaU/TutorialPython) — Curso práctico de introducción a Python 📘  
-- [**ApiRES**](https://github.com/LillianaU/ApiRES) — API REST completa en PHP 🔌  
-- [**ExportacionPDF**](https://github.com/LillianaU/ExportacionPDF) — Generación dinámica de PDFs 📄  
-- [**EjemploCrudPhp**](https://github.com/LillianaU/EjemploCrudPhp) — CRUD en PHP y MySQL 🛠️  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,8 +67,8 @@ Desarrollador/a Fullstack apasionado/a por la tecnología, la innovación y la e
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Conéctemos
 
-- 💻 [GitHub: LillianaU](https://github.com/SrEdarKh/SrEdarkh)
+- 💻 [GitHub: EdwinHerrera](https://github.com/SrEdarKh/SrEdarkh)
 
 > *"Compartir conocimiento es la base del verdadero progreso tecnológico." *🚀
